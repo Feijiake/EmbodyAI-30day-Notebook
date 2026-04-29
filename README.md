@@ -49,6 +49,8 @@
 
 ## 📚 学习路线总览
 
+***打卡手账本*** [https://github.com/Feijiake/EmbodyAI-DATA](https://github.com/Feijiake/EmbodyAI-DATA)
+
 ### 第1周：工程筑基
 
 | Day | 主题 | 描述 | 笔记 |
